@@ -25,12 +25,7 @@ function Header() {
         <NavLink to="/projects" className={linkClass}>
           Projects
         </NavLink>
-        <NavLink to="/services" className={linkClass}>
-          Services
-        </NavLink>
-        <NavLink to="/contact" className={linkClass}>
-          Contact
-        </NavLink>
+        
       </nav>
 
       <button className="bg-[#FF6300] text-white px-3 py-2 rounded-xl font-semibold">
